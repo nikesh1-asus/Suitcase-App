@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mcategory"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_category"
+         />
+    <item
+        android:id="@+id/mproduct"
+        android:title="Product"
+        android:icon="@drawable/ic_product"
+         />
+
+    <item
+        android:id="@+id/mmuser"
+        android:title="User"
+        android:icon="@drawable/ic_setting"
+         />
+
+</menu>
